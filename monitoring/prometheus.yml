@@ -1,0 +1,12 @@
+global:
+  scrap_interval: 15s
+  evaluation_interval: 15s #how often rules are evaluated
+
+rule_files: []
+
+scrap_configs:
+  - job_name: 'prometheus'
+    scrap_interval: 15s
+    static_configs:
+      - targets:[]
+

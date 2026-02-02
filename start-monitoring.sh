@@ -1,0 +1,3 @@
+
+echo "Starting monotoring services!"
+
