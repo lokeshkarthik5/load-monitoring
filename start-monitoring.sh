@@ -1,3 +1,3 @@
 
-echo "Starting monotoring services!"
+echo "Starting monotoring services! 🚀"
 

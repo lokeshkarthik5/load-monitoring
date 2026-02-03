@@ -20,7 +20,6 @@ services:
     ports:
       - "3000:3000"
     environment:
-      # Set default admin credentials (optional, can be configured in UI later)
       - GF_SECURITY_ADMIN_PASSWORD=admin
       - GF_SECURITY_ADMIN_USER=admin
     volumes:
